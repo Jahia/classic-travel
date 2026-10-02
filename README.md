@@ -1,5 +1,12 @@
 # classic-travel
 
+> **This repository has moved.** classic-travel is now developed in the
+> [classic-templates monorepo](https://github.com/Jahia/classic-templates), under
+> [`packages/travel`](https://github.com/Jahia/classic-templates/tree/main/packages/travel), and
+> released together with the template set. This repository is archived; its history continues
+> there, and the [0.1.0 release](https://github.com/Jahia/classic-travel/releases/tag/0_1_0) stays
+> available here.
+
 Travel content for Jahia sites built on the [classic-templates](https://github.com/Jahia/classic-templates)
 template set: destinations and fare offers with their own pages, automatic fare and destination
 lists, and a travel tools section shown as tabs. Built for travel and airline demonstration sites;
